@@ -45,6 +45,9 @@ body {
   transition: all 1s ease;
 }
 
+
+
+
 .selected {
   border: 2px solid black;
 }
